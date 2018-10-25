@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/day4_while.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/day4_while.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/imgs/4/debug.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/debug.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/imgs/4/language_run_origin.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/language_run_origin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/imgs/4/language_type.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/language_type.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/day3_if_var.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/day3_if_var.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="6" />
+          <entry key="md" value="7" />
           <entry key="png" value="1" />
           <entry key="yaml" value="1" />
         </counts>
@@ -32,19 +29,19 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="6" />
+          <entry key="Markdown" value="7" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="114" />
+          <entry key="md" value="116" />
           <entry key="yaml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="114" />
+          <entry key="Markdown" value="116" />
           <entry key="YAML" value="25" />
         </counts>
       </usages-collector>
@@ -52,12 +49,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/day4_while.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="895">
                 <caret line="206" column="17" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/day3_if_var.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="424">
+                <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,6 +109,7 @@
         <option value="$PROJECT_DIR$/.gitbook.yaml" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/doc/day4_while.md" />
+        <option value="$PROJECT_DIR$/doc/day3_if_var.md" />
       </list>
     </option>
   </component>
@@ -237,6 +247,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="895">
             <caret line="206" column="17" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/day3_if_var.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="424">
+            <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
           </first_editor>
           <second_editor />
         </state>

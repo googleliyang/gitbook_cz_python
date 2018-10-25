@@ -131,7 +131,6 @@ malloc()在内存中开辟动态地址空间，空间大小为（）内的整数
 
 > J（或J）表示-1的平方根（这是一个虚数）。 a是真正的数字部分，b是虚部(虚部而已后边加的是 -1 的平方根)。
 
-![image-20181024153502711](/var/folders/lj/7gy8g4td0sl9tch9v2pft7n40000gn/T/abnerworks.Typora/image-20181024153502711.png)
 
 
 
