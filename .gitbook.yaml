@@ -1,4 +1,4 @@
-root: ./Doc/
+root: ./doc/
 structure:
   readme: README.md
   #summary: SUMMARY.md
