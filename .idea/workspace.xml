@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="" />
+    <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/day4_while.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/day4_while.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/imgs/4/debug.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/debug.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/imgs/4/language_run_origin.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/language_run_origin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/imgs/4/language_type.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/4/language_type.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +24,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
+          <entry key="png" value="1" />
           <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="6" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -49,12 +56,17 @@
         <entry file="file://$PROJECT_DIR$/doc/day4_while.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+              <first_editor relative-caret-position="895">
+                <caret line="206" column="17" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgs/4/language_type.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -74,6 +86,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>imgs</find>
+      <find>../imgs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,6 +99,7 @@
         <option value="$PROJECT_DIR$/Doc/day4_for_while.md" />
         <option value="$PROJECT_DIR$/.gitbook.yaml" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/doc/day4_while.md" />
       </list>
     </option>
   </component>
@@ -138,6 +152,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/doc" />
       <recent name="$PROJECT_DIR$/Doc/imgs/4" />
       <recent name="$PROJECT_DIR$/Doc" />
@@ -214,11 +229,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/4/language_type.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/day4_while.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="207" column="1" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
+          <first_editor relative-caret-position="895">
+            <caret line="206" column="17" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>

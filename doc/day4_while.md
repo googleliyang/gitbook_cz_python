@@ -62,7 +62,7 @@ for i in range(0, 10, 3) :
 ## python debug
 
 
-![python_debug](imgs/4/debug.png)
+![python_debug](../imgs/4/debug.png)
 
 
 ## Tip
@@ -204,11 +204,11 @@ __pow__: 乘方
 
   - python 为解释形语言
   
-  ![语言类型](imgs/4/language_type.png)
+  ![语言类型](../imgs/4/language_type.png)
   
   - 原理如下
   
-  ![语言原理](imgs/4/language_run_origin.png)
+  ![语言原理](../imgs/4/language_run_origin.png)
 
   
   
