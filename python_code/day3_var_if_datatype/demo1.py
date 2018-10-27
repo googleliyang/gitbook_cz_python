@@ -41,3 +41,4 @@ if not fl and d :
 
 print('c or d res is', c or d)
 print('false or d res is', False or d)
+
