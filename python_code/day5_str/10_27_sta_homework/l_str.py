@@ -130,4 +130,10 @@ def cal_rabbit_num(m):
         return cal_rabbit_num(m - 1) + cal_rabbit_num(m - 2)
 
 
+# 兔子方式 3
+def cal_r(n):
+    a, b = 0, 1
+    while b < n:
+        print(b)
+        a, b = b, a + b
 
