@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="k">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/chanzhi/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/chanzhi/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/1/card.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/1/card.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/1/day01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/1/day01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/2/morn_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/2/morn_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/2/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/2/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="17" />
+          <entry key="md" value="18" />
           <entry key="png" value="2" />
           <entry key="py" value="29" />
           <entry key="pyi" value="3" />
@@ -56,7 +49,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="2" />
-          <entry key="Markdown" value="17" />
+          <entry key="Markdown" value="18" />
           <entry key="Python" value="29" />
           <entry key="PythonStub" value="3" />
           <entry key="YAML" value="1" />
@@ -64,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9980" />
+          <entry key="md" value="9995" />
           <entry key="py" value="20615" />
           <entry key="txt" value="1" />
           <entry key="yaml" value="25" />
@@ -72,7 +65,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="9980" />
+          <entry key="Markdown" value="9995" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="20615" />
           <entry key="YAML" value="25" />
@@ -95,8 +88,20 @@
         <entry file="file://$PROJECT_DIR$/doc/day8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="952">
+              <first_editor relative-caret-position="719">
                 <caret line="28" selection-start-line="28" selection-end-line="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/chuanzhi/2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="374">
+                <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/2/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="374">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -216,6 +221,7 @@
         <option value="$PROJECT_DIR$/python_code/chuanzhi/2/morn_if.py" />
         <option value="$PROJECT_DIR$/doc/chanzhi/2.md" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/2/while.py" />
+        <option value="$PROJECT_DIR$/doc/chuanzhi/2.md" />
       </list>
     </option>
   </component>
@@ -265,6 +271,12 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
@@ -483,12 +495,12 @@
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23855165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23855165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25929204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25929204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39922482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -687,16 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="952">
-            <caret line="28" selection-start-line="28" selection-end-line="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/day5_str.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -748,8 +750,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/2/while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="374">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/day8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="719">
+            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
