@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="k">
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/3/step.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/3/string_zhuanyi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/ascii.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/debug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/dict_strcu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/no_local.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/python_scope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/4/python_scope1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/b_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/code1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/code2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/func_id.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/imutable_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/imutable_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/split_param.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/str_int.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/why_data_type.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/why_int.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/3/map_lamaba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/4/06_管理系统升级版_修改数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/4/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/4/func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/5/extract_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/5/func_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/5/mul_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/dict_origin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/5/dict_origin2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/chanzhi/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/5.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/5.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +55,7 @@
         <counts>
           <entry key="md" value="27" />
           <entry key="png" value="7" />
-          <entry key="py" value="43" />
+          <entry key="py" value="44" />
           <entry key="pyi" value="4" />
           <entry key="spec" value="1" />
           <entry key="yaml" value="1" />
@@ -90,14 +66,14 @@
           <entry key="Image" value="7" />
           <entry key="Markdown" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="43" />
+          <entry key="Python" value="44" />
           <entry key="PythonStub" value="4" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="12632" />
+          <entry key="md" value="13170" />
           <entry key="py" value="23590" />
           <entry key="txt" value="1" />
           <entry key="yaml" value="25" />
@@ -105,7 +81,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="12632" />
+          <entry key="Markdown" value="13170" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="23590" />
           <entry key="YAML" value="25" />
@@ -116,13 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/chuanzhi/2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1224">
-                <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="2808" column="22" selection-start-line="2808" selection-start-column="22" selection-end-line="2808" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -155,8 +128,8 @@
         <entry file="file://$PROJECT_DIR$/doc/chuanzhi/5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="248" column="34" lean-forward="true" selection-start-line="248" selection-start-column="34" selection-end-line="248" selection-end-column="34" />
+              <first_editor relative-caret-position="665">
+                <caret line="277" column="54" selection-start-line="277" selection-start-column="54" selection-end-line="277" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/5/mul_return.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="557">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <marker date="1542012782704" expanded="true" signature="223:283" ph="..." />
               </folding>
@@ -867,13 +840,6 @@
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/3/card_manager.spec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/4/dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -966,7 +932,7 @@
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/5/mul_return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <marker date="1542012782704" expanded="true" signature="223:283" ph="..." />
           </folding>
@@ -983,11 +949,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="2808" column="22" selection-start-line="2808" selection-start-column="22" selection-end-line="2808" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/chuanzhi/5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="248" column="34" lean-forward="true" selection-start-line="248" selection-start-column="34" selection-end-line="248" selection-end-column="34" />
+          <first_editor relative-caret-position="665">
+            <caret line="277" column="54" selection-start-line="277" selection-start-column="54" selection-end-line="277" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
