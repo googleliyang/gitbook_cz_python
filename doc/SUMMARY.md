@@ -8,4 +8,6 @@
 * [chuanzhi](chuanzhi/1.md)
   * [c1_var_computer_origin](chuanzhi/1.md)
   * [c2_if_and_operator](chuanzhi/2.md)
-
+  * [c3_str_list](chuanzhi/3.md)
+  * [c4_tuple_directory_func](chuanzhi/4.md)
+  * [c5_func_origin](chuanzhi/5.md)
