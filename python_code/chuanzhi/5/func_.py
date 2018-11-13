@@ -15,3 +15,4 @@ def update(sum_):
 
 update(a)
 print(a)  # 10
+

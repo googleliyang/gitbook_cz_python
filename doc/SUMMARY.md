@@ -11,3 +11,4 @@
   * [c3_str_list](chuanzhi/3.md)
   * [c4_tuple_directory_func](chuanzhi/4.md)
   * [c5_func_origin](chuanzhi/5.md)
+  * [c6_file_recursive](chuanzhi/6.md)
