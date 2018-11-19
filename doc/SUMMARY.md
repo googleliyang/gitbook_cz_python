@@ -13,4 +13,6 @@
   * [c5_func_origin](chuanzhi/5.md)
   * [c6_file_recursive](chuanzhi/6.md)
   * [c7_oop_base](chuanzhi/7.md)
-  * [c8_oop_mul_extend_mro_pri](chuanzhi/6.md)
+  * [c8_oop_mul_extend_mro_pri](chuanzhi/8.md)
+  * [c9_oop_class_var_](chuanzhi/9.md)
+  * [c10_package_module](chuanzhi/10.md)
