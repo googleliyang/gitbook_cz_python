@@ -8,5 +8,3 @@ age = 30
 
 if age > 20:
     print('I am older')
-
-

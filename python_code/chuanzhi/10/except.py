@@ -6,6 +6,6 @@ def func1():
 if __name__ == "__main__":
     try:
         func1()
-    except:
+    except Exception:
         print('Get a except')
     print('continue run')

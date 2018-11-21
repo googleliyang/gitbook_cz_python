@@ -19,4 +19,3 @@ cat1.say()
 
 cat2 = Cat('cat2')
 cat2.say()
-
