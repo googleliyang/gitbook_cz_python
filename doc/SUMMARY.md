@@ -16,4 +16,5 @@
   * [c8_oop_mul_extend_mro_pri](chuanzhi/8.md)
   * [c9_oop_class_var_](chuanzhi/9.md)
   * [c10_package_module](chuanzhi/10.md)   
-  * [python_advance](chuanzhi/python_advance/13.md)
+  * [python_linux1](chuanzhi/python_advance/13.md)
+  * [python_linux2](chuanzhi/python_advance/14.md)
