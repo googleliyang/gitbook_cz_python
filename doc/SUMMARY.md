@@ -18,4 +18,5 @@
   * [c10_package_module](chuanzhi/10.md)   
   * [python_linux1](chuanzhi/python_advance/13.md)
   * [python_linux2](chuanzhi/python_advance/14.md)
-  * [python_linux3](chuanzhi/python_advance/15.md)
+  * [python_udp](chuanzhi/python_advance/15.md)
+  * [python_http_tcp](chuanzhi/python_advance/16.md)

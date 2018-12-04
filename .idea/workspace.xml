@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="k">
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/google_news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/python_advance/14.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/python_advance/14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/python_advance/15.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/python_advance/15.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +34,12 @@
     <SUITE FILE_PATH="coverage/python$class__1_.coverage" NAME="class (1) Coverage Results" MODIFIED="1540795032063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day6" />
     <SUITE FILE_PATH="coverage/study$udp_receive.coverage" NAME="udp_receive Coverage Results" MODIFIED="1543748597219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
     <SUITE FILE_PATH="coverage/python$l_str.coverage" NAME="l_str Coverage Results" MODIFIED="1540625735338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day5/10_27_sta_homework" />
+    <SUITE FILE_PATH="coverage/study$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1543809868639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
     <SUITE FILE_PATH="coverage/python$class_issue.coverage" NAME="class_issue Coverage Results" MODIFIED="1540800762458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day6" />
     <SUITE FILE_PATH="coverage/python$card.coverage" NAME="card Coverage Results" MODIFIED="1541496403758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/1" />
     <SUITE FILE_PATH="coverage/python$morn_if.coverage" NAME="morn_if Coverage Results" MODIFIED="1541556672178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/2" />
     <SUITE FILE_PATH="coverage/study$big_file_copy.coverage" NAME="big_file_copy Coverage Results" MODIFIED="1542598346346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
+    <SUITE FILE_PATH="coverage/study$download_server.coverage" NAME="download_server Coverage Results" MODIFIED="1543825790330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
     <SUITE FILE_PATH="coverage/study$b1.coverage" NAME="b1 Coverage Results" MODIFIED="1542779087869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
     <SUITE FILE_PATH="coverage/study$test.coverage" NAME="test Coverage Results" MODIFIED="1542938376022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/study$cat.coverage" NAME="cat Coverage Results" MODIFIED="1542627815429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/10" />
@@ -42,7 +47,9 @@
     <SUITE FILE_PATH="coverage/study$udp.coverage" NAME="udp Coverage Results" MODIFIED="1543748566495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
     <SUITE FILE_PATH="coverage/study$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1542939252480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/study$out1.coverage" NAME="out1 Coverage Results" MODIFIED="1542770515894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/10/__all" />
+    <SUITE FILE_PATH="coverage/study$download_file.coverage" NAME="download_file Coverage Results" MODIFIED="1543831653744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
     <SUITE FILE_PATH="coverage/python$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1542081346472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
+    <SUITE FILE_PATH="coverage/study$tcp.coverage" NAME="tcp Coverage Results" MODIFIED="1543809879306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
     <SUITE FILE_PATH="coverage/study$b2.coverage" NAME="b2 Coverage Results" MODIFIED="1542781075770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
     <SUITE FILE_PATH="coverage/python$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1541496362671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi" />
     <SUITE FILE_PATH="coverage/python$big_file_copy.coverage" NAME="big_file_copy Coverage Results" MODIFIED="1542099403749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
@@ -109,14 +116,16 @@
     <session id="695975414">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -124,7 +133,7 @@
           <entry key="dummy" value="10" />
           <entry key="ini" value="231" />
           <entry key="md" value="86" />
-          <entry key="py" value="13529" />
+          <entry key="py" value="15773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -132,7 +141,7 @@
           <entry key="Ini" value="231" />
           <entry key="Markdown" value="86" />
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="13529" />
+          <entry key="Python" value="15773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -140,19 +149,19 @@
           <entry key="ini" value="3" />
           <entry key="jpg" value="1" />
           <entry key="md" value="2" />
-          <entry key="png" value="33" />
-          <entry key="py" value="24" />
+          <entry key="png" value="35" />
+          <entry key="py" value="29" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="34" />
+          <entry key="Image" value="36" />
           <entry key="Ini" value="3" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="24" />
+          <entry key="Python" value="29" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -161,59 +170,84 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="748">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
                 <marker date="1543749020239" expanded="true" signature="154:308" ph="..." />
-                <marker date="1543749020239" expanded="true" signature="365:499" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="340">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <marker date="1543809760887" expanded="true" signature="27:28" ph="..." />
+                <marker date="1543809760887" expanded="true" signature="27:442" ph="..." />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/google_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#108#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/02.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="4748" column="10" selection-start-line="4748" selection-start-column="10" selection-end-line="4748" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="18632">
+              <caret line="549" column="8" selection-start-line="549" selection-start-column="8" selection-end-line="549" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -221,35 +255,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4556">
-              <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/pygame/display.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4862">
-              <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/config.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="6800">
+              <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -311,11 +318,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python_code/day6/class_issue_yield.py" />
-        <option value="$PROJECT_DIR$/python_code/day6/class_issue.py" />
-        <option value="$PROJECT_DIR$/doc/day6.md" />
-        <option value="$PROJECT_DIR$/doc/day6_list_tuple_set_dict.md" />
-        <option value="$PROJECT_DIR$/python_code/day7/_Iterable.py" />
         <option value="$PROJECT_DIR$/python_code/day7/Iterable.py" />
         <option value="$PROJECT_DIR$/doc/day7.md" />
         <option value="$PROJECT_DIR$/python_code/day5_str/class.py" />
@@ -362,6 +364,11 @@
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/google_news.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py" />
       </list>
     </option>
   </component>
@@ -371,10 +378,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1127" />
+    <option name="height" value="1124" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -443,16 +450,7 @@
               <item name="python_code" type="462c0819:PsiDirectoryNode" />
               <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
               <item name="python_advance" type="462c0819:PsiDirectoryNode" />
-              <item name="15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
-              <item name="python_advance" type="462c0819:PsiDirectoryNode" />
-              <item name="15" type="462c0819:PsiDirectoryNode" />
-              <item name="udp" type="462c0819:PsiDirectoryNode" />
+              <item name="16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,19 +468,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
-      <recent name="$PROJECT_DIR$/imgs/chuanzhi/5" />
-      <recent name="$PROJECT_DIR$/imgs/chuanzhi/4" />
-      <recent name="$PROJECT_DIR$/imgs/chuanzhi/3" />
-      <recent name="$PROJECT_DIR$/doc/chanzhi" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
       <recent name="$PROJECT_DIR$/doc/chuanzhi" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/4" />
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
+      <recent name="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/5" />
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/4" />
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -497,8 +495,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.socket_chat">
-    <configuration name="encode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.download_file">
+    <configuration name="download_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,12 +504,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -542,7 +562,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tcp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -550,12 +570,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -564,7 +584,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="udp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -572,34 +592,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="udp_receive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,19 +607,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.udp" />
-      <item itemvalue="Python.encode" />
-      <item itemvalue="Python.udp_receive" />
       <item itemvalue="Python.socket_chat" />
+      <item itemvalue="Python.tcp" />
+      <item itemvalue="Python.tcp_server" />
+      <item itemvalue="Python.download_file" />
+      <item itemvalue="Python.download_server" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.download_file" />
+        <item itemvalue="Python.download_server" />
+        <item itemvalue="Python.tcp" />
+        <item itemvalue="Python.tcp_server" />
         <item itemvalue="Python.socket_chat" />
-        <item itemvalue="Python.udp_receive" />
-        <item itemvalue="Python.udp" />
-        <item itemvalue="Python.encode" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -639,16 +637,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1125" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1124" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26677316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27209798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32848838" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24201356" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4017425" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24204436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40115717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -695,50 +693,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/5/str_int.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/5/split_param.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/6/big_file_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/10/try_else_finally.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/10/cat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/10/__all/out1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/11.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="579">
-            <caret line="56" selection-start-line="56" selection-end-line="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imgs/8/pyi.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -842,20 +796,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/test2.py" />
     <entry file="file://$PROJECT_DIR$/doc/chuanzhi/5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -866,10 +808,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4556">
-          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        <state relative-caret-position="1258">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161432">
+          <caret line="4748" column="10" selection-start-line="4748" selection-start-column="10" selection-end-line="4748" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -887,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="4748" column="10" selection-start-line="4748" selection-start-column="10" selection-end-line="4748" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -901,42 +857,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py">
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="748">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1543749020239" expanded="true" signature="154:308" ph="..." />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <marker date="1543809760887" expanded="true" signature="27:28" ph="..." />
+            <marker date="1543809760887" expanded="true" signature="27:442" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/google_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#108#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
+        <state relative-caret-position="18632">
+          <caret line="549" column="8" selection-start-line="549" selection-start-column="8" selection-end-line="549" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py">
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="6800">
+          <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py">
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <marker date="1543749020239" expanded="true" signature="154:308" ph="..." />
-            <marker date="1543749020239" expanded="true" signature="365:499" ph="..." />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
