@@ -20,3 +20,5 @@
   * [python_linux2](chuanzhi/python_advance/14.md)
   * [python_udp](chuanzhi/python_advance/15.md)
   * [python_http_tcp](chuanzhi/python_advance/16.md)
+  * [python_http_tcp](chuanzhi/python_advance/17.md)
+  * [python_thread](chuanzhi/python_advance/18.md)

@@ -4,11 +4,12 @@ import socket
 def main():
     tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-    address = ('192.168.12.95', 8888)
+    # address = ('192.168.12.95', 8888)
+    address = ('127.0.0.1', 9003)
 
     tcp_socket.connect(address)
 
-    tcp_socket.send(('hello miss!').encode())
+    tcp_socket.send(('hello miss 1!').encode())
 
     # 阻塞 收不到数据不会往下执行
     receive_data = tcp_socket.recv(10 << 10)
