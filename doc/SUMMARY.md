@@ -24,3 +24,5 @@
   * [python_thread](chuanzhi/python_advance/18.md)
   * [python_process_poll_multiple](chuanzhi/python_advance/19.md)
   * [python_generator_coroutine](chuanzhi/python_advance/20.md)
+  * [python_gil_rec_refer](chuanzhi/python_advance/21.md)
+  * [python_decorator_magic_method](chuanzhi/python_advance/22.md)

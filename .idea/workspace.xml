@@ -5,50 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad973fbd-c7a2-414f-b170-bd9fca78db50" name="Default Changelist" comment="k">
-      <change afterPath="$PROJECT_DIR$/doc/chuanzhi/python_advance/20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/download_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/for_iter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generater4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generater5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generater6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generator7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/gevent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/i4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/iterator1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/iterator_ins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/jc_xc_xc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/liter3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/r1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xc1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xc_download_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xc_getimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xiecheng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/xiecheng1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/01-迭代.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/02-自定义迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/03-next-iter函数作用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/04-生成器函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/05-myrange生成器函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/06-执行生成器代码-send方法发送数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/07-yield模拟实现协程-了解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/08-greenlet模拟实现协程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/09-gevent模块基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/10-多任务图片下载工具-gevent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/02-自定义迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generater_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/simple_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/21.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/22.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/dict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/gil_loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/gil_locl_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/model_find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/module_dict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/similar_file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/step_recycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/today.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/with_except.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/with_exit_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21/with_use.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/bfs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/dict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/len_str.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/len_str1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/magic_method.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/rudu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/with_exec_origin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/BB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/I/extend_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/c3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/get_pri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/t.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/python_advance/19.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/python_advance/19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chuanzhi/10.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chuanzhi/10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/17/step_next/static/static/js/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/17/step_next/static/static/js/jquery-1.12.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/web服务器-07-08版本/07-通过命令行指定端口/static/js/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/web服务器-07-08版本/07-通过命令行指定端口/static/js/jquery-1.12.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/static/js/jquery-1.12.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/static/js/jquery-1.12.4.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +80,11 @@
     <SUITE FILE_PATH="coverage/study$cat.coverage" NAME="cat Coverage Results" MODIFIED="1542627815429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/10" />
     <SUITE FILE_PATH="coverage/python$str.coverage" NAME="str Coverage Results" MODIFIED="1540603670642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day5" />
     <SUITE FILE_PATH="coverage/study$udp.coverage" NAME="udp Coverage Results" MODIFIED="1543748566495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
+    <SUITE FILE_PATH="coverage/study$BB.coverage" NAME="BB Coverage Results" MODIFIED="1544668179226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/study$out1.coverage" NAME="out1 Coverage Results" MODIFIED="1542770515894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/10/__all" />
+    <SUITE FILE_PATH="coverage/study$module.coverage" NAME="module Coverage Results" MODIFIED="1544600595543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/study$prcocess_q.coverage" NAME="prcocess_q Coverage Results" MODIFIED="1544252802886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/19" />
+    <SUITE FILE_PATH="coverage/study$get_pri.coverage" NAME="get_pri Coverage Results" MODIFIED="1544700800939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
     <SUITE FILE_PATH="coverage/python$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1542081346472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
     <SUITE FILE_PATH="coverage/study$b2.coverage" NAME="b2 Coverage Results" MODIFIED="1542781075770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
     <SUITE FILE_PATH="coverage/study$my_gevent.coverage" NAME="my_gevent Coverage Results" MODIFIED="1544345598014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20" />
@@ -83,12 +92,18 @@
     <SUITE FILE_PATH="coverage/study$try_else_finally.coverage" NAME="try_else_finally Coverage Results" MODIFIED="1542627649030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/10" />
     <SUITE FILE_PATH="coverage/study$generater_case.coverage" NAME="generater_case Coverage Results" MODIFIED="1544341681872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
     <SUITE FILE_PATH="coverage/python$extract_param.coverage" NAME="extract_param Coverage Results" MODIFIED="1541995749433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/5" />
+    <SUITE FILE_PATH="coverage/study$property_.coverage" NAME="property_ Coverage Results" MODIFIED="1544675378469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
+    <SUITE FILE_PATH="coverage/study$property_del.coverage" NAME="property_del Coverage Results" MODIFIED="1544675801730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
+    <SUITE FILE_PATH="coverage/study$reload.coverage" NAME="reload Coverage Results" MODIFIED="1544694452580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/python$mul_return.coverage" NAME="mul_return Coverage Results" MODIFIED="1542012783980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/5" />
+    <SUITE FILE_PATH="coverage/study$with_.coverage" NAME="with_ Coverage Results" MODIFIED="1544606695311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/python$_str_for.coverage" NAME="_str_for Coverage Results" MODIFIED="1541732338052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/3" />
     <SUITE FILE_PATH="coverage/python$09__.coverage" NAME="09_名片管理系统_数据的修改 Coverage Results" MODIFIED="1541756732317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/3" />
     <SUITE FILE_PATH="coverage/python$day8.coverage" NAME="day8 Coverage Results" MODIFIED="1540962729677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day8" />
+    <SUITE FILE_PATH="coverage/study$AA.coverage" NAME="AA Coverage Results" MODIFIED="1544694348296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/python$while.coverage" NAME="while Coverage Results" MODIFIED="1541575499647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/2" />
     <SUITE FILE_PATH="coverage/study$python.coverage" NAME="python进程之间通讯 Coverage Results" MODIFIED="1544274098482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/19" />
+    <SUITE FILE_PATH="coverage/study$extend_.coverage" NAME="extend_ Coverage Results" MODIFIED="1544691733562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/I" />
     <SUITE FILE_PATH="coverage/python$class__1_.coverage" NAME="class (1) Coverage Results" MODIFIED="1540795032063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day6" />
     <SUITE FILE_PATH="coverage/study$udp_receive.coverage" NAME="udp_receive Coverage Results" MODIFIED="1543748597219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp" />
     <SUITE FILE_PATH="coverage/study$07_.coverage" NAME="07-通过命令行参数指定端口 Coverage Results" MODIFIED="1544090437510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口" />
@@ -99,7 +114,9 @@
     <SUITE FILE_PATH="coverage/study$b1.coverage" NAME="b1 Coverage Results" MODIFIED="1542779087869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
     <SUITE FILE_PATH="coverage/study$generate.coverage" NAME="generate Coverage Results" MODIFIED="1544329724142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
     <SUITE FILE_PATH="coverage/study$custom_thread.coverage" NAME="custom_thread Coverage Results" MODIFIED="1544088463880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程" />
+    <SUITE FILE_PATH="coverage/study$with_divide.coverage" NAME="with_divide Coverage Results" MODIFIED="1544607427321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/study$.coverage" NAME="多进程拷贝文件 Coverage Results" MODIFIED="1544323600349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/19" />
+    <SUITE FILE_PATH="coverage/study$c3.coverage" NAME="c3 Coverage Results" MODIFIED="1544694081606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
     <SUITE FILE_PATH="coverage/study$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1542939252480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/study$download_file.coverage" NAME="download_file Coverage Results" MODIFIED="1543831653744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16" />
     <SUITE FILE_PATH="coverage/study$tcp.coverage" NAME="tcp Coverage Results" MODIFIED="1544235568704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/17/16" />
@@ -107,8 +124,10 @@
     <SUITE FILE_PATH="coverage/python$big_file_copy.coverage" NAME="big_file_copy Coverage Results" MODIFIED="1542099403749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
     <SUITE FILE_PATH="coverage/study$bg.coverage" NAME="bg Coverage Results" MODIFIED="1542937988683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
     <SUITE FILE_PATH="coverage/study$generator_send.coverage" NAME="generator_send Coverage Results" MODIFIED="1544343377417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
+    <SUITE FILE_PATH="coverage/study$property_dec.coverage" NAME="property_dec Coverage Results" MODIFIED="1544690324259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
     <SUITE FILE_PATH="coverage/python$class.coverage" NAME="class Coverage Results" MODIFIED="1540535548490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/day5" />
     <SUITE FILE_PATH="coverage/python$func.coverage" NAME="func Coverage Results" MODIFIED="1541840116216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/4" />
+    <SUITE FILE_PATH="coverage/study$reload_t.coverage" NAME="reload_t Coverage Results" MODIFIED="1544694358500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
     <SUITE FILE_PATH="coverage/python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1541820119664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/4" />
     <SUITE FILE_PATH="coverage/study$generator_func.coverage" NAME="generator_func Coverage Results" MODIFIED="1544341505477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
     <SUITE FILE_PATH="coverage/python$digui.coverage" NAME="digui Coverage Results" MODIFIED="1542075573246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_code/chuanzhi/6" />
@@ -167,34 +186,34 @@
     <session id="695975414">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="12" />
+          <entry key="dummy" value="13" />
           <entry key="ini" value="231" />
-          <entry key="md" value="7046" />
-          <entry key="py" value="26199" />
+          <entry key="md" value="14279" />
+          <entry key="py" value="30182" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="231" />
-          <entry key="Markdown" value="7044" />
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="26201" />
+          <entry key="Markdown" value="14276" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="30185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -202,34 +221,35 @@
           <entry key="ini" value="3" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
-          <entry key="md" value="19" />
-          <entry key="png" value="39" />
-          <entry key="py" value="87" />
+          <entry key="md" value="31" />
+          <entry key="module" value="1" />
+          <entry key="png" value="43" />
+          <entry key="py" value="119" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="40" />
+          <entry key="Image" value="44" />
           <entry key="Ini" value="3" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="19" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="87" />
+          <entry key="Markdown" value="31" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="119" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_advance/20.md">
+        <entry file="file://$PROJECT_DIR$/doc/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="343">
-                <caret line="272" column="18" selection-start-line="272" selection-start-column="18" selection-end-line="272" selection-end-column="18" />
+              <first_editor relative-caret-position="972">
+                <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -237,20 +257,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/01-迭代.py">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="145260">
+              <caret line="4035" selection-start-line="4035" selection-end-line="4035" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload_t.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#107#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/SUMMARY.md">
+        <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/22.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="429">
-                <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+              <first_editor relative-caret-position="974">
+                <caret line="238" column="10" selection-start-line="238" selection-start-column="10" selection-end-line="238" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -258,81 +308,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate5.png">
+        <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro3.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_send.py">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/c3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="936">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_del.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
-                <marker date="1544343623853" expanded="true" signature="127:287" ph="..." />
+                <marker date="1544675799292" expanded="true" signature="482:508" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generater_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <marker date="1544341685249" expanded="true" signature="207:209" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/simple_yield.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <marker date="1544345527943" expanded="true" signature="137:230" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <marker date="1544340517208" expanded="true" signature="129:418" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-              <folding>
-                <marker date="1544329721579" expanded="true" signature="118:276" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-              <folding>
-                <element signature="e#108#119#0" expanded="true" />
-                <marker date="1544346627335" expanded="true" signature="260:477" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -346,9 +349,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>l</find>
-      <find>ope_welcome</find>
-      <find>_login_time</find>
       <find>get</find>
       <find>__getitem__</find>
       <find>shu</find>
@@ -376,6 +376,9 @@
       <find>并行</find>
       <find>异步</find>
       <find>协</find>
+      <find>导入</find>
+      <find>feng</find>
+      <find>修饰器</find>
     </findStrings>
     <replaceStrings>
       <replace>arg_str</replace>
@@ -393,27 +396,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/10/__all/out1.py" />
-        <option value="$PROJECT_DIR$/doc/chuanzhi/11.md" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/b1.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/b2.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/bg.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/ari_plane.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/config.ini" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game/air_plane.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/encode/encode.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp_receive.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/udp.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15/udp/socket_chat.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp_server.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/google_news.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_file.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/download_server.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/16/tcp.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程/Thread.py" />
-        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程/share_global.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程/custom_thread.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/Appliction.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/07-通过命令行参数指定端口.py" />
@@ -443,7 +425,28 @@
         <option value="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/my_gevent.py" />
         <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py" />
         <option value="$PROJECT_DIR$/doc/chuanzhi/python_advance/20.md" />
+        <option value="$PROJECT_DIR$/doc/chuanzhi/10.md" />
+        <option value="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/sys.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/AA.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_divide.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload_t.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/BB.py" />
+        <option value="$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/21.md" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property).py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_del.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/t.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_dec.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/I/extend_.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/c3.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/A.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module1.py" />
+        <option value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/get_pri.py" />
         <option value="$PROJECT_DIR$/doc/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/22.md" />
       </list>
     </option>
   </component>
@@ -453,10 +456,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
-    <option name="height" value="1128" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -482,6 +484,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -492,6 +495,32 @@
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="advance_step_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="advance_step_2" type="462c0819:PsiDirectoryNode" />
+              <item name="22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="python_code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -505,46 +534,61 @@
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="python_code" type="462c0819:PsiDirectoryNode" />
               <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
-              <item name="class_code" type="462c0819:PsiDirectoryNode" />
+              <item name="python_advance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="python_code" type="462c0819:PsiDirectoryNode" />
               <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
-              <item name="class_code" type="462c0819:PsiDirectoryNode" />
-              <item name="就业班第八天-python进程协程" type="462c0819:PsiDirectoryNode" />
+              <item name="python_advance" type="462c0819:PsiDirectoryNode" />
+              <item name="21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="python_advance" type="462c0819:PsiDirectoryNode" />
+              <item name="22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="summ&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/SUMMARY.md&#10;19.&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/19.md&#10;19.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/19.md&#10;18.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/18.md&#10;config.in&#9;FILE&#9;file:///Users/ly/Programmer/study/python_code/chuanzhi/11/airplane_game/config.ini&#10;11.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/11.md" />
+    <property name="SearchEverywhereHistoryKey" value="22.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_improve_mysql/22.md&#10;summ&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/SUMMARY.md&#10;19.&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/19.md&#10;19.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/19.md&#10;18.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/python_advance/18.md&#10;config.in&#9;FILE&#9;file:///Users/ly/Programmer/study/python_code/chuanzhi/11/airplane_game/config.ini&#10;11.md&#9;FILE&#9;file:///Users/ly/Programmer/study/doc/chuanzhi/11.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22" />
+      <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/21" />
+      <recent name="$PROJECT_DIR$/python_code/chuanzhi/class_code" />
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
       <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/19" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance" />
       <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/15" />
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/11/airplane_game" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/class_code" />
-      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20" />
-      <recent name="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2" />
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
-      <recent name="$PROJECT_DIR$/python_code/chuanzhi/python_advance/19" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -559,8 +603,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_gevent">
-    <configuration name="generater_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.get_pri">
+    <configuration name="AA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -568,12 +612,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generater_case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/AA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -582,7 +626,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generator_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="c3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -590,12 +634,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/c3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -604,7 +648,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generator_send" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_pri" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -612,12 +656,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_send.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/get_pri.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -626,7 +670,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_gevent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reload" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -634,12 +678,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -648,7 +692,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reload_t" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -656,12 +700,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/simple_yield.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload_t.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -671,19 +715,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.generator_func" />
-      <item itemvalue="Python.generater_case" />
-      <item itemvalue="Python.generator_send" />
-      <item itemvalue="Python.my_gevent" />
-      <item itemvalue="Python.simple_yield" />
+      <item itemvalue="Python.c3" />
+      <item itemvalue="Python.reload_t" />
+      <item itemvalue="Python.AA" />
+      <item itemvalue="Python.reload" />
+      <item itemvalue="Python.get_pri" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.my_gevent" />
-        <item itemvalue="Python.simple_yield" />
-        <item itemvalue="Python.generator_send" />
-        <item itemvalue="Python.generater_case" />
-        <item itemvalue="Python.generator_func" />
+        <item itemvalue="Python.get_pri" />
+        <item itemvalue="Python.reload" />
+        <item itemvalue="Python.reload_t" />
+        <item itemvalue="Python.AA" />
+        <item itemvalue="Python.c3" />
       </list>
     </recent_temporary>
   </component>
@@ -701,16 +745,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1128" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12886049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848838" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2509804" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40098038" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276481" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2172352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -727,20 +771,20 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12726304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12779553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848838" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2509804" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40115717" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276481" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2172352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32920355" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2245098" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -790,210 +834,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/web服务器-07-08版本/07-通过命令行指定端口/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/Appliction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程/share_global.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/作业_更改tcp为多线程/07-通过命令行指定端口/07-通过命令行参数指定端口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="757" column="8" selection-start-line="757" selection-start-column="8" selection-end-line="757" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/18/线程/Thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-          <folding>
-            <element signature="e#105#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/17/16/tcp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/popen_fork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2439" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3275" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day6_list_tuple_set_dict.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-8203" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day5_str.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-4463" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day4_while.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-8687" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day4_for_while.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-8561" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/day3_if_var.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/process_attr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/父进程是否等待子进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/process_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#106#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/父子进程资源是否共享.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#106#128#0" expanded="true" />
-            <marker date="1544241512392" expanded="true" signature="191:221" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/19/process_notify.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/queues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/python进程之间通讯.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#110#132#0" expanded="true" />
-            <marker date="1544253767916" expanded="true" signature="163:664" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#106#128#0" expanded="true" />
-            <marker date="1544253315274" expanded="true" signature="374:377" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/19/prcocess_q.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="e#106#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,10 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="e#101#123#0" expanded="true" />
-            <marker date="1544258631139" expanded="true" signature="160:263" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,10 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="e#105#114#0" expanded="true" />
-            <marker date="1544263033693" expanded="true" signature="544:845" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,13 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="4210" column="21" selection-start-line="4210" selection-start-column="21" selection-end-line="4210" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/02-自定义迭代器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-572">
@@ -1106,91 +935,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <marker date="1544327711400" expanded="true" signature="159:445" ph="..." />
-            <marker date="1544327711400" expanded="true" signature="360:403" ph="..." />
-            <marker date="1544327711400" expanded="true" signature="517:522" ph="..." />
-            <marker date="1544327711400" expanded="true" signature="517:583" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate3.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/simple_yield.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <marker date="1544345527943" expanded="true" signature="137:230" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <marker date="1544329721579" expanded="true" signature="118:276" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <marker date="1544340517208" expanded="true" signature="129:418" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generater_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <marker date="1544341685249" expanded="true" signature="207:209" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <element signature="e#108#119#0" expanded="true" />
-            <marker date="1544346627335" expanded="true" signature="260:477" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_send.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <marker date="1544343623853" expanded="true" signature="127:287" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_advance/20.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="343">
-            <caret line="272" column="18" selection-start-line="272" selection-start-column="18" selection-end-line="272" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/class_code/就业班第八天-python进程协程/01-迭代.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1199,11 +948,250 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/20/generate5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generater_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/simple_yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generator_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/20/my_gevent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_advance/20.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/day7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="440">
+            <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/day8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="484">
+            <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2379">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="635" lean-forward="true" selection-start-line="635" selection-end-line="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/with_divide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/BB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/21.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="143" column="34" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_dec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/I/extend_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/AA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <first_editor relative-caret-position="972">
+            <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145260">
+          <caret line="4035" selection-start-line="4035" selection-end-line="4035" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/module1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/21/reload_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#107#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/c3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_code/chuanzhi/python_advance/22/property_del.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <marker date="1544675799292" expanded="true" signature="482:508" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/chuanzhi/advance_step_2/22/mro.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/chuanzhi/python_improve_mysql/22.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="974">
+            <caret line="238" column="10" selection-start-line="238" selection-start-column="10" selection-end-line="238" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
