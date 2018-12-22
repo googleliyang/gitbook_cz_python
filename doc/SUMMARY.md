@@ -27,3 +27,8 @@
   * [python_gil_rec_refer](chuanzhi/python_improve_mysql/21.md)
   * [python_decorator_magic_method](chuanzhi/python_improve_mysql/22.md)
   * [python_decorator_regex](chuanzhi/python_improve_mysql/23.md)
+  * [regex_sql](chuanzhi/python_improve_mysql/24.md)
+  * [sql](chuanzhi/python_improve_mysql/25.md)
+  * [sql_group_cancat](chuanzhi/python_improve_mysql/26.md)
+  * [python_sql](chuanzhi/python_improve_mysql/27.md)
+  * [python_mini_web_framework](chuanzhi/python_improve_mysql/28.md)
